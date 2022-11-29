@@ -278,19 +278,21 @@ a {
 .item:last-child {
     margin-right: 0;
 }
-a:visited {
-    color: #21243D;
-}
+
 ._icon-link:before {
+    color: #21243D;
     content: "\e900";
   }
   ._icon-tw:before {
+      color: #21243D;
     content: "\e901";
   }
   ._icon-insta:before {
+      color: #21243D;
     content: "\e902";
   }
   ._icon-fb:before {
+     color: #21243D;
     content: "\e903";
   }
   .footer__copyright {
